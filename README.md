@@ -12,7 +12,7 @@ Afterward, I continued to experiment with what I learned about arithmetic with t
 
 
 
-To Do
+### To Do
 
 Right now (2025 Dec) the encryption key is hardcoded as three 7x7 matrices derived from some interesting isograms. It would be more interesting to come up with some way to apply an encryption key or password in an algorithm that deterministically scrambles the matrices' entries before they are used to encrypt and decrypt.
 
