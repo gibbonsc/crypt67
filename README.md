@@ -1,6 +1,6 @@
 # crypt67
 
-Symmetric encryption algorithm, inspired by one of the challenges in this(2025) year's PatriotCTF ([https://competitivecyber.club/patriotctf/](https://competitivecyber.club/patriotctf/)), and also inspired by this year's silly "[6-7](https://en.wikipedia.org/wiki/6-7_(meme))" viral meme.
+Symmetric encryption algorithm, inspired by one of the challenges in this (2025) year's PatriotCTF ([https://competitivecyber.club/patriotctf/](https://competitivecyber.club/patriotctf/)), and also inspired by this year's silly "[6-7](https://en.wikipedia.org/wiki/6-7_(meme))" viral meme.
 
 
 
