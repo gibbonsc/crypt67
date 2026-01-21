@@ -1,6 +1,6 @@
 # crypt67
 
-[github.com/gibbonsc/crypt67](https://github.com/gibbonsc/crypt67)
+Python scripts here: [github.com/gibbonsc/crypt67](https://github.com/gibbonsc/crypt67)
 
 Symmetric encryption algorithm, inspired by one of the challenges in this (2025) year's PatriotCTF ([https://competitivecyber.club/patriotctf/](https://competitivecyber.club/patriotctf/)), and also inspired by this year's silly "[6-7](https://en.wikipedia.org/wiki/6-7_(meme))" viral meme.
 
@@ -10,6 +10,6 @@ Afterward, I continued to experiment with what I learned about arithmetic with t
 
 ## To Do
 
-Right now (2025 Dec) the encryption key is hardcoded as three 7x7 matrices derived from some interesting isograms. It would be more interesting to come up with some way to apply an encryption key or password in an algorithm that deterministically scrambles the matrices' entries before they are used to encrypt and decrypt.
+Right now (2025 Dec) the encryption key is hardcoded as three 7x7 matrices derived from some interesting isograms. It would be *more* interesting to come up with a way to apply an encryption key or password in an algorithm that deterministically scrambles the matrices' entries before they are used to encrypt and decrypt.
 
 Regardless, this cipher is just for fun. *Don't use this cipher* for anything you care to keep confidential! I'm pretty certain that it's susceptible to cryptanalysis and easily broken. Also, it uses a lot of division operations, which are expensive. Use well established and time-tested symmetric encryption algorithms that use fewer (or carefully chosen, or no) divisions. They tend to be faster, safer, and preferable.
